@@ -1,0 +1,5 @@
+kern/arm64/efi/kernel_exec-startup.o: \
+ ../../grub-core/kern/arm64/efi/startup.S ../../include/grub/symbol.h \
+ ../config.h
+../../include/grub/symbol.h:
+../config.h:

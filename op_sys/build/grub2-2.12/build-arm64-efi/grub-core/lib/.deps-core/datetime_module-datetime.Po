@@ -1,0 +1,20 @@
+lib/datetime_module-datetime.o: ../../grub-core/lib/datetime.c \
+ ../../include/grub/datetime.h ../../include/grub/types.h ../config.h \
+ /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h \
+ ../include/grub/cpu/types.h ../../include/grub/err.h \
+ ../../include/grub/symbol.h ../../include/grub/compiler.h \
+ ../../include/grub/i18n.h ../../include/grub/misc.h \
+ /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdarg.h \
+ ../../include/grub/mm.h
+../../include/grub/datetime.h:
+../../include/grub/types.h:
+../config.h:
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h:
+../include/grub/cpu/types.h:
+../../include/grub/err.h:
+../../include/grub/symbol.h:
+../../include/grub/compiler.h:
+../../include/grub/i18n.h:
+../../include/grub/misc.h:
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdarg.h:
+../../include/grub/mm.h:

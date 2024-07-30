@@ -1,0 +1,19 @@
+kern/arm64/kernel_exec-cache.o: ../../grub-core/kern/arm64/cache.c \
+ ../../include/grub/cache.h ../../include/grub/symbol.h ../config.h \
+ ../../include/grub/types.h \
+ /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h \
+ ../include/grub/cpu/types.h ../../include/grub/misc.h \
+ /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdarg.h \
+ ../../include/grub/err.h ../../include/grub/compiler.h \
+ ../../include/grub/i18n.h
+../../include/grub/cache.h:
+../../include/grub/symbol.h:
+../config.h:
+../../include/grub/types.h:
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h:
+../include/grub/cpu/types.h:
+../../include/grub/misc.h:
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdarg.h:
+../../include/grub/err.h:
+../../include/grub/compiler.h:
+../../include/grub/i18n.h:

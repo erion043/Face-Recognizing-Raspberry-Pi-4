@@ -1,0 +1,2 @@
+lse-init.o: ../../../libgcc/config/aarch64/lse-init.c auto-target.h
+auto-target.h:

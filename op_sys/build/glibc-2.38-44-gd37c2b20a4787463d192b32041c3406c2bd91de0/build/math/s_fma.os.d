@@ -1,0 +1,119 @@
+$(common-objpfx)math/s_fma.os: \
+ ../sysdeps/ieee754/ldbl-128/s_fma.c \
+ $(common-objpfx)libc-modules.h \
+ ../include/libc-symbols.h \
+ $(common-objpfx)config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h \
+ ../include/math.h ../math/math.h ../bits/libc-header-start.h \
+ ../include/features.h ../include/features-time64.h \
+ ../sysdeps/unix/sysv/linux/features-time64.h \
+ ../sysdeps/aarch64/bits/wordsize.h ../bits/timesize.h \
+ ../include/stdc-predef.h ../include/sys/cdefs.h ../misc/sys/cdefs.h \
+ ../sysdeps/ieee754/ldbl-128/bits/long-double.h ../include/gnu/stubs.h \
+ ../include/bits/types.h ../posix/bits/types.h \
+ ../sysdeps/unix/sysv/linux/bits/typesizes.h ../bits/time64.h \
+ ../sysdeps/aarch64/fpu/bits/math-vector.h ../bits/libm-simd-decl-stubs.h \
+ ../sysdeps/ieee754/ldbl-128/bits/floatn.h ../bits/floatn-common.h \
+ ../bits/flt-eval-method.h ../bits/fp-logb.h \
+ ../sysdeps/aarch64/bits/fp-fast.h \
+ ../include/bits/mathcalls-helper-functions.h \
+ ../math/bits/mathcalls-helper-functions.h ../include/bits/mathcalls.h \
+ ../math/bits/mathcalls.h ../include/bits/mathcalls-narrow.h \
+ ../math/bits/mathcalls-narrow.h ../bits/iscanonical.h \
+ ../include/stdint.h ../stdlib/stdint.h ../bits/wchar.h \
+ ../bits/stdint-intn.h ../bits/stdint-uintn.h \
+ ../sysdeps/generic/nan-high-order-bit.h ../include/fenv.h ../math/fenv.h \
+ ../sysdeps/aarch64/bits/fenv.h \
+ /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h \
+ ../sysdeps/ieee754/ldbl-128/ieee754.h ../include/bits/endian.h \
+ ../string/bits/endian.h ../sysdeps/aarch64/bits/endianness.h \
+ ../sysdeps/generic/libm-alias-double.h \
+ ../sysdeps/generic/math-narrow-alias.h \
+ ../sysdeps/generic/math-narrow-alias-float128.h \
+ ../sysdeps/generic/math-use-builtins.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-nearbyint.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-rint.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-floor.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-ceil.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-trunc.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-round.h \
+ ../sysdeps/generic/math-use-builtins-roundeven.h \
+ ../sysdeps/generic/math-use-builtins-copysign.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-sqrt.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-fma.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-fmax.h \
+ ../sysdeps/aarch64/fpu/math-use-builtins-fmin.h \
+ ../sysdeps/generic/math-use-builtins-fabs.h \
+ ../sysdeps/generic/math-use-builtins-lrint.h \
+ ../sysdeps/generic/math-use-builtins-llrint.h \
+ ../sysdeps/generic/math-use-builtins-logb.h
+$(common-objpfx)libc-modules.h:
+../include/libc-symbols.h:
+$(common-objpfx)config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:
+../include/math.h:
+../math/math.h:
+../bits/libc-header-start.h:
+../include/features.h:
+../include/features-time64.h:
+../sysdeps/unix/sysv/linux/features-time64.h:
+../sysdeps/aarch64/bits/wordsize.h:
+../bits/timesize.h:
+../include/stdc-predef.h:
+../include/sys/cdefs.h:
+../misc/sys/cdefs.h:
+../sysdeps/ieee754/ldbl-128/bits/long-double.h:
+../include/gnu/stubs.h:
+../include/bits/types.h:
+../posix/bits/types.h:
+../sysdeps/unix/sysv/linux/bits/typesizes.h:
+../bits/time64.h:
+../sysdeps/aarch64/fpu/bits/math-vector.h:
+../bits/libm-simd-decl-stubs.h:
+../sysdeps/ieee754/ldbl-128/bits/floatn.h:
+../bits/floatn-common.h:
+../bits/flt-eval-method.h:
+../bits/fp-logb.h:
+../sysdeps/aarch64/bits/fp-fast.h:
+../include/bits/mathcalls-helper-functions.h:
+../math/bits/mathcalls-helper-functions.h:
+../include/bits/mathcalls.h:
+../math/bits/mathcalls.h:
+../include/bits/mathcalls-narrow.h:
+../math/bits/mathcalls-narrow.h:
+../bits/iscanonical.h:
+../include/stdint.h:
+../stdlib/stdint.h:
+../bits/wchar.h:
+../bits/stdint-intn.h:
+../bits/stdint-uintn.h:
+../sysdeps/generic/nan-high-order-bit.h:
+../include/fenv.h:
+../math/fenv.h:
+../sysdeps/aarch64/bits/fenv.h:
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h:
+../sysdeps/ieee754/ldbl-128/ieee754.h:
+../include/bits/endian.h:
+../string/bits/endian.h:
+../sysdeps/aarch64/bits/endianness.h:
+../sysdeps/generic/libm-alias-double.h:
+../sysdeps/generic/math-narrow-alias.h:
+../sysdeps/generic/math-narrow-alias-float128.h:
+../sysdeps/generic/math-use-builtins.h:
+../sysdeps/aarch64/fpu/math-use-builtins-nearbyint.h:
+../sysdeps/aarch64/fpu/math-use-builtins-rint.h:
+../sysdeps/aarch64/fpu/math-use-builtins-floor.h:
+../sysdeps/aarch64/fpu/math-use-builtins-ceil.h:
+../sysdeps/aarch64/fpu/math-use-builtins-trunc.h:
+../sysdeps/aarch64/fpu/math-use-builtins-round.h:
+../sysdeps/generic/math-use-builtins-roundeven.h:
+../sysdeps/generic/math-use-builtins-copysign.h:
+../sysdeps/aarch64/fpu/math-use-builtins-sqrt.h:
+../sysdeps/aarch64/fpu/math-use-builtins-fma.h:
+../sysdeps/aarch64/fpu/math-use-builtins-fmax.h:
+../sysdeps/aarch64/fpu/math-use-builtins-fmin.h:
+../sysdeps/generic/math-use-builtins-fabs.h:
+../sysdeps/generic/math-use-builtins-lrint.h:
+../sysdeps/generic/math-use-builtins-llrint.h:
+../sysdeps/generic/math-use-builtins-logb.h:

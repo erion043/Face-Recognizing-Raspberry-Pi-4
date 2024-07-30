@@ -1,0 +1,1555 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errno.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os) (__libc_errno)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setjmp.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(__longjmp.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__longjmp)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lowlevellock.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__lll_lock_wait_private)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(scratch_buffer_set_array_size.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (memchr)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcmp.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (memcmp)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (memcpy)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memmove.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (memmove)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (memset)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stpcpy.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__stpcpy)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchr.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (strchr)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcmp.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (strcmp)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcspn.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (strcspn)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strdup.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__strdup)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strerrorname_np.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (strerrorname_np)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (strlen)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strncmp.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (strncmp)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strnlen.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (strnlen)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_generic.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr.os) (__memchr_generic)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_nosimd.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr.os) (__memchr_nosimd)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_a64fx.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os) (__memcpy_a64fx)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_falkor.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os) (__memcpy_falkor)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_generic.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os) (__GI_memcpy)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_sve.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os) (__memcpy_sve)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memmove.os) (__memmove_thunderx)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx2.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memmove.os) (__memmove_thunderx2)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_a64fx.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os) (__memset_a64fx)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_emag.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os) (__memset_emag)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_falkor.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os) (__memset_falkor)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_generic.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os) (__GI_memset)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_kunpeng.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os) (__memset_kunpeng)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_asimd.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen.os) (__strlen_asimd)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_mte.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strdup.os) (__GI_strlen)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(closedir.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__closedir)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(rewinddir.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__rewinddir)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(readdir64.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__readdir64)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fdopendir.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__fdopendir)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(_exit.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI__exit)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getpid.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__getpid)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(uname.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__uname)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(environ.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__environ)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(access.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__access)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstat64.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___fstat64)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstatat64.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___fstatat64)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lseek64.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(rewinddir.os) (__GI___lseek)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lstat64.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___lstat64)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(openat64.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__openat64)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stat64.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___stat64)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(close_nocancel.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fcntl_nocancel.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(open64_nocancel.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(pread64_nocancel.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(read_nocancel.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(write_nocancel.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mmap64.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__mmap)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mprotect.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__mprotect)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(munmap.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__munmap)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(single_threaded.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(openat64.os) (__libc_single_threaded_internal)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__profil)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(prof-freq.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(dl-addr-obj.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sysdep.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(uname.os) (__syscall_error)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sigaction.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os) (__GI___sigaction)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(libc_sigaction.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sigaction.os) (__GI___libc_sigaction)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errname.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strerrorname_np.os) (__get_errname)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchrnul.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcspn.os) (__GI___strchrnul)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setitimer.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os) (__setitimer)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getdents64.os)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(readdir64.os) (__GI___getdents64)
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__aarch64_cas4_acq)
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__aarch64_ldadd4_relax)
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lowlevellock.os) (__aarch64_swp4_acq)
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+                              /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os (__aarch64_swp4_rel)
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+                              /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o) (__aarch64_have_lse_atomics)
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getauxval.os)
+                              /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o) (__getauxval)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/librtld.mapT.o
+START GROUP
+LOAD /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+LOAD /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a
+LOAD /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.text           0x0000000000000000    0x1d84c
+ *(.text .stub)
+ .text          0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/librtld.mapT.o
+                0x0000000000000000                malloc
+                0x0000000000000000                __libc_assert_fail
+                0x0000000000000000                calloc
+                0x0000000000000000                __GI___pthread_enable_asynccancel
+                0x0000000000000000                realloc
+                0x0000000000000000                __GI___pthread_disable_asynccancel
+                0x0000000000000000                __pthread_enable_asynccancel
+                0x0000000000000000                __pthread_disable_asynccancel
+                0x0000000000000000                free
+ .text          0x0000000000000000    0x19788 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_call_libc_early_init
+                0x00000000000000a0                _dl_call_fini
+                0x0000000000000210                _dl_signal_exception
+                0x0000000000000210                __GI__dl_signal_exception
+                0x0000000000000280                __GI__dl_signal_error
+                0x0000000000000280                _dl_signal_error
+                0x00000000000002f0                _dl_signal_cexception
+                0x0000000000000390                _dl_signal_cerror
+                0x0000000000000440                _dl_receive_error
+                0x00000000000004f0                _dl_catch_exception
+                0x00000000000004f0                __GI__dl_catch_exception
+                0x0000000000000640                _dl_catch_error
+                0x00000000000007e0                _dl_close_worker
+                0x0000000000001470                _dl_close
+                0x0000000000001500                _dl_debug_state
+                0x0000000000001500                __GI__dl_debug_state
+                0x0000000000001510                _dl_debug_update
+                0x0000000000001580                _dl_debug_initialize
+                0x0000000000001720                _dl_map_object_deps
+                0x0000000000002360                _dl_error_free
+                0x0000000000002390                _dl_exception_create
+                0x0000000000002390                __GI__dl_exception_create
+                0x0000000000002470                __GI__dl_exception_create_format
+                0x0000000000002470                _dl_exception_create_format
+                0x0000000000002880                _dl_exception_free
+                0x0000000000002880                __GI__dl_exception_free
+                0x00000000000028c0                _dl_make_stacks_executable
+                0x0000000000002a60                __GI___nptl_change_stack_perm
+                0x0000000000002a60                __nptl_change_stack_perm
+                0x0000000000002c90                __GI__dl_find_object
+                0x0000000000002c90                _dl_find_object
+                0x0000000000002fc0                _dlfo_sort_mappings
+                0x0000000000003050                _dl_find_object_init
+                0x00000000000031a0                _dl_find_object_update
+                0x00000000000036a0                _dl_find_object_dlclose
+                0x0000000000003770                _dl_find_object_freeres
+                0x00000000000037f0                _dl_fini
+                0x0000000000003c20                _dl_init
+                0x0000000000004ad0                _dl_dst_count
+                0x0000000000004b90                _dl_dst_substitute
+                0x0000000000005300                _dl_init_paths
+                0x0000000000005690                _dl_process_pt_gnu_property
+                0x0000000000006af0                _dl_map_object
+                0x0000000000007550                _dl_rtld_di_serinfo
+                0x0000000000008300                _dl_lookup_symbol_x
+                0x0000000000008db0                _dl_lookup_direct
+                0x0000000000008f20                __minimal_malloc
+                0x0000000000009050                __minimal_calloc
+                0x0000000000009090                __minimal_free
+                0x00000000000090e0                __minimal_realloc
+                0x0000000000009180                _dl_sysdep_read_whole_file
+                0x0000000000009220                _dl_name_match_p
+                0x0000000000009290                _dl_higher_prime_number
+                0x00000000000092e0                _dl_strtoul
+                0x0000000000009430                _dl_add_to_namespace_list
+                0x00000000000094f0                _dl_new_object
+                0x0000000000009cd0                __GI__dl_find_dso_for_object
+                0x0000000000009cd0                _dl_find_dso_for_object
+                0x0000000000009dc0                _dl_open
+                0x000000000000a080                _dl_show_scope
+                0x000000000000aa30                _dl_get_origin
+                0x000000000000b2c0                _dl_debug_printf
+                0x000000000000b350                _dl_debug_printf_c
+                0x000000000000b3e0                _dl_dprintf
+                0x000000000000b460                _dl_printf
+                0x000000000000b4e0                _dl_error_printf
+                0x000000000000b560                _dl_fatal_printf
+                0x000000000000b560                __GI__dl_fatal_printf
+                0x000000000000b5e0                _dl_start_profile
+                0x000000000000bc30                __GI__dl_mcount
+                0x000000000000bc30                _dl_mcount
+                0x000000000000bed0                _dl_try_allocate_static_tls
+                0x000000000000bfe0                _dl_allocate_static_tls
+                0x000000000000c030                _dl_protect_relro
+                0x000000000000c0b0                _dl_reloc_bad_type
+                0x000000000000c180                _dl_relocate_object
+                0x000000000000da20                _dl_fixup
+                0x000000000000dcd0                _dl_profile_fixup
+                0x000000000000e070                _dl_scope_free
+                0x000000000000e170                _dl_setup_hash
+                0x000000000000e360                _dl_sort_maps_init
+                0x000000000000e3a0                _dl_sort_maps
+                0x000000000000e7b0                __thread_gscope_wait
+                0x000000000000eca0                _dl_tls_static_surplus_init
+                0x000000000000ed50                _dl_assign_tls_modid
+                0x000000000000ee90                _dl_count_modids
+                0x000000000000eef0                _dl_determine_tlsoffset
+                0x000000000000f0a0                _dl_get_tls_static_info
+                0x000000000000f0c0                _dl_allocate_tls_storage
+                0x000000000000f170                __GI__dl_allocate_tls_init
+                0x000000000000f170                _dl_allocate_tls_init
+                0x000000000000f3c0                __GI__dl_allocate_tls
+                0x000000000000f3c0                _dl_allocate_tls
+                0x000000000000f3f0                _dl_deallocate_tls
+                0x000000000000f3f0                __GI__dl_deallocate_tls
+                0x000000000000f4b0                _dl_update_slotinfo
+                0x000000000000f720                __GI___tls_get_addr
+                0x000000000000f720                __tls_get_addr
+                0x000000000000f770                _dl_tls_get_addr_soft
+                0x000000000000f800                _dl_add_to_slotinfo
+                0x000000000000f920                _dl_init_static_tls
+                0x000000000000fa70                __tls_pre_init_tp
+                0x000000000000fac0                __tls_init_tp
+                0x000000000000fbc8                _dl_runtime_resolve
+                0x000000000000fc40                _dl_runtime_profile
+                0x000000000000fec0                __GI___tunable_set_val
+                0x000000000000fee0                __GI___tunables_init
+                0x0000000000010470                __GI___tunables_print
+                0x0000000000010570                __tunable_get_val
+                0x0000000000010570                __GI___tunable_get_val
+                0x00000000000105f0                _dl_check_map_versions
+                0x0000000000010e10                _dl_check_all_versions
+                0x0000000000010ea0                _dl_write
+                0x0000000000010eb0                _dl_cache_libcmp
+                0x00000000000115b0                _dl_load_cache_lookup
+                0x00000000000118f0                _dl_unload_cache
+                0x0000000000011980                _dl_bti_protect
+                0x0000000000011aa0                _dl_bti_check
+                0x0000000000011b10                _dl_make_tlsdesc_dynamic
+                0x0000000000011d90                _dl_unmap
+                0x0000000000011e30                _dl_tlsdesc_return
+                0x0000000000011e3c                _dl_tlsdesc_undefweak
+                0x0000000000011e58                _dl_tlsdesc_dynamic
+                0x0000000000011f80                _dl_audit_activity_map
+                0x0000000000012030                _dl_audit_activity_nsid
+                0x0000000000012070                _dl_audit_objsearch
+                0x0000000000012150                _dl_audit_objopen
+                0x0000000000012240                _dl_audit_objclose
+                0x0000000000012310                _dl_audit_preinit
+                0x00000000000123c0                _dl_audit_symbind_alt
+                0x00000000000123c0                __GI__dl_audit_symbind_alt
+                0x0000000000012580                _dl_audit_symbind
+                0x0000000000012870                _dl_audit_pltenter
+                0x0000000000012ae0                _dl_audit_pltexit
+                0x0000000000012d20                _dl_diagnostics_print_string
+                0x0000000000012da0                _dl_diagnostics_print_labeled_string
+                0x0000000000012df0                _dl_diagnostics_print_labeled_value
+                0x0000000000012e10                _dl_print_diagnostics
+                0x00000000000131e0                _dl_diagnostics_cpu
+                0x00000000000132c0                _dl_diagnostics_kernel
+                0x0000000000013380                _dl_next_ld_env_entry
+                0x00000000000133d0                unsetenv
+                0x0000000000013510                _dl_important_hwcaps
+                0x0000000000013830                _dl_hwcaps_subdirs_active
+                0x0000000000013840                _dl_hwcaps_split
+                0x00000000000138e0                _dl_hwcaps_contains
+                0x00000000000139b0                _dl_hwcaps_split_masked
+                0x0000000000013a00                __rtld_libc_freeres
+                0x0000000000013a10                __rtld_malloc_init_stubs
+                0x0000000000013a50                __sigjmp_save
+                0x0000000000013a60                __strerror_r
+                0x0000000000013b50                __GI___libc_fatal
+                0x0000000000013b50                __libc_fatal
+                0x0000000000013b70                __GI___chk_fail
+                0x0000000000013b70                __chk_fail
+                0x0000000000013b80                __GI___assert_fail
+                0x0000000000013b80                __assert_fail
+                0x0000000000013bc0                __rtld_malloc_is_complete
+                0x0000000000013d20                __rtld_malloc_init_real
+                0x0000000000013e10                __GI___assert_perror_fail
+                0x0000000000013e10                __assert_perror_fail
+                0x0000000000013e80                _itoa
+                0x0000000000013ee0                __strsep
+                0x0000000000013ee0                strsep
+                0x0000000000013ee0                __strsep_g
+                0x0000000000013f70                __rtld_mutex_init
+                0x00000000000141f0                _dl_sysdep_start
+                0x00000000000143b0                _dl_sysdep_start_cleanup
+                0x00000000000143c0                _dl_show_auxv
+                0x0000000000014600                _dl_usage
+                0x0000000000014660                _dl_version
+                0x0000000000014680                _dl_help
+                0x00000000000151a0                _dl_start
+                0x00000000000158e0                handle_preload_list
+                0x0000000000018ee0                __brk
+                0x0000000000018ee0                brk
+                0x0000000000018f20                __getcwd
+                0x0000000000018f20                getcwd
+                0x00000000000194d0                openat64
+                0x0000000000019540                __alloc_dir
+                0x0000000000019600                __opendir
+                0x0000000000019600                opendir
+                0x00000000000196a0                sbrk
+                0x00000000000196a0                __sbrk
+                0x0000000000019740                _start
+                0x0000000000019758                _dl_start_user
+ *fill*         0x0000000000019788        0x8 1f2003d5
+ .text          0x0000000000019790       0xf0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os)
+                0x0000000000019850                __libc_check_standard_fds
+ .text          0x0000000000019880        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errno.os)
+ .text          0x0000000000019880       0xd8 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setjmp.os)
+                0x0000000000019880                setjmp
+                0x00000000000198c0                __GI__setjmp
+                0x00000000000198c0                _setjmp
+                0x0000000000019900                __sigsetjmp
+                0x0000000000019900                __GI___sigsetjmp
+ *fill*         0x0000000000019958       0x28 1f2003d5
+ .text          0x0000000000019980       0x64 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(__longjmp.os)
+                0x0000000000019980                __longjmp
+ *fill*         0x00000000000199e4        0xc 1f2003d5
+ .text          0x00000000000199f0      0x140 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lowlevellock.os)
+                0x00000000000199f0                __GI___lll_lock_wait_private
+                0x00000000000199f0                __lll_lock_wait_private
+                0x0000000000019a70                __lll_lock_wait
+                0x0000000000019a70                __GI___lll_lock_wait
+                0x0000000000019af0                __lll_lock_wake_private
+                0x0000000000019af0                __GI___lll_lock_wake_private
+                0x0000000000019b10                __lll_lock_wake
+                0x0000000000019b10                __GI___lll_lock_wake
+ .text          0x0000000000019b30       0xc4 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(scratch_buffer_set_array_size.os)
+                0x0000000000019b30                __libc_scratch_buffer_set_array_size
+                0x0000000000019b30                __GI___libc_scratch_buffer_set_array_size
+ *fill*         0x0000000000019bf4        0xc 1f2003d5
+ .text          0x0000000000019c00       0x38 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr.os)
+                0x0000000000019c00                memchr
+                0x0000000000019c00                __memchr
+ *fill*         0x0000000000019c38        0x8 1f2003d5
+ .text          0x0000000000019c40      0x1c8 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcmp.os)
+                0x0000000000019c40                bcmp
+                0x0000000000019c40                __GI___memcmpeq
+                0x0000000000019c40                __memcmpeq
+                0x0000000000019c40                __GI_memcmp
+                0x0000000000019c40                memcmp
+ *fill*         0x0000000000019e08        0x8 1f2003d5
+ .text          0x0000000000019e10      0x108 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os)
+                0x0000000000019e10                memcpy
+                0x0000000000019e10                __libc_memcpy
+ *fill*         0x0000000000019f18        0x8 1f2003d5
+ .text          0x0000000000019f20      0x108 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memmove.os)
+                0x0000000000019f20                memmove
+                0x0000000000019f20                __libc_memmove
+ *fill*         0x000000000001a028        0x8 1f2003d5
+ .text          0x000000000001a030      0x104 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os)
+                0x000000000001a030                memset
+                0x000000000001a030                __libc_memset
+ *fill*         0x000000000001a134        0xc 1f2003d5
+ .text          0x000000000001a140      0x150 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stpcpy.os)
+                0x000000000001a140                stpcpy
+                0x000000000001a140                __GI_stpcpy
+                0x000000000001a140                __stpcpy
+                0x000000000001a140                __GI___stpcpy
+ *fill*         0x000000000001a290       0x30 1f2003d5
+ .text          0x000000000001a2c0       0xac /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchr.os)
+                0x000000000001a2c0                __GI_strchr
+                0x000000000001a2c0                index
+                0x000000000001a2c0                strchr
+ *fill*         0x000000000001a36c       0x14 1f2003d5
+ .text          0x000000000001a380      0x134 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcmp.os)
+                0x000000000001a380                __GI_strcmp
+                0x000000000001a380                strcmp
+ *fill*         0x000000000001a4b4        0xc 1f2003d5
+ .text          0x000000000001a4c0      0x120 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcspn.os)
+                0x000000000001a4c0                strcspn
+                0x000000000001a4c0                __GI_strcspn
+ .text          0x000000000001a5e0       0x44 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strdup.os)
+                0x000000000001a5e0                __GI___strdup
+                0x000000000001a5e0                __strdup
+                0x000000000001a5e0                strdup
+ *fill*         0x000000000001a624        0xc 1f2003d5
+ .text          0x000000000001a630        0x4 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strerrorname_np.os)
+                0x000000000001a630                strerrorname_np
+ *fill*         0x000000000001a634        0xc 1f2003d5
+ .text          0x000000000001a640       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen.os)
+                0x000000000001a640                __strlen
+                0x000000000001a640                strlen
+ *fill*         0x000000000001a668       0x18 1f2003d5
+ .text          0x000000000001a680      0x204 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strncmp.os)
+                0x000000000001a6a4                __GI_strncmp
+                0x000000000001a6a4                strncmp
+ *fill*         0x000000000001a884       0x3c 1f2003d5
+ .text          0x000000000001a8c0       0xb8 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strnlen.os)
+                0x000000000001a8c0                __strnlen
+                0x000000000001a8c0                strnlen
+                0x000000000001a8c0                __GI___strnlen
+                0x000000000001a8c0                __GI_strnlen
+ *fill*         0x000000000001a978        0x8 1f2003d5
+ .text          0x000000000001a980       0xc4 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_generic.os)
+                0x000000000001a980                __GI_memchr
+                0x000000000001a980                __memchr_generic
+ *fill*         0x000000000001aa44       0x3c 1f2003d5
+ .text          0x000000000001aa80       0xe0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_nosimd.os)
+                0x000000000001aa80                __GI___memchr_nosimd
+                0x000000000001aa80                __memchr_nosimd
+ *fill*         0x000000000001ab60       0x20 1f2003d5
+ .text          0x000000000001ab80      0x364 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_a64fx.os)
+                0x000000000001ab80                __memcpy_a64fx
+                0x000000000001ab80                __GI___memcpy_a64fx
+                0x000000000001adb0                __memmove_a64fx
+                0x000000000001adb0                __GI___memmove_a64fx
+ *fill*         0x000000000001aee4       0x1c 1f2003d5
+ .text          0x000000000001af00      0x274 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_falkor.os)
+                0x000000000001af00                __GI___memcpy_falkor
+                0x000000000001af00                __memcpy_falkor
+                0x000000000001b080                __memmove_falkor
+                0x000000000001b080                __GI___memmove_falkor
+ *fill*         0x000000000001b174        0xc 1f2003d5
+ .text          0x000000000001b180      0x1f0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_generic.os)
+                0x000000000001b180                __memcpy_generic
+                0x000000000001b180                __GI_memcpy
+                0x000000000001b2c0                __GI_memmove
+                0x000000000001b2c0                __memmove_generic
+ *fill*         0x000000000001b370       0x10 1f2003d5
+ .text          0x000000000001b380      0x1c0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_sve.os)
+                0x000000000001b380                __memcpy_sve
+                0x000000000001b380                __GI___memcpy_sve
+                0x000000000001b480                __memmove_sve
+                0x000000000001b480                __GI___memmove_sve
+ .text          0x000000000001b540      0x2bc /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx.os)
+                0x000000000001b540                __memmove_thunderx
+                0x000000000001b540                __GI___memmove_thunderx
+                0x000000000001b580                __GI___memcpy_thunderx
+                0x000000000001b580                __memcpy_thunderx
+ *fill*         0x000000000001b7fc        0x4 1f2003d5
+ .text          0x000000000001b800      0x714 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx2.os)
+                0x000000000001b800                __memmove_thunderx2
+                0x000000000001b800                __GI___memmove_thunderx2
+                0x000000000001b840                __GI___memcpy_thunderx2
+                0x000000000001b840                __memcpy_thunderx2
+ *fill*         0x000000000001bf14       0x2c 1f2003d5
+ .text          0x000000000001bf40      0x188 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_a64fx.os)
+                0x000000000001bf40                __GI___memset_a64fx
+                0x000000000001bf40                __memset_a64fx
+ *fill*         0x000000000001c0c8       0x38 1f2003d5
+ .text          0x000000000001c100       0xe0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_emag.os)
+                0x000000000001c100                __memset_emag
+                0x000000000001c100                __GI___memset_emag
+ *fill*         0x000000000001c1e0       0x20 1f2003d5
+ .text          0x000000000001c200      0x124 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_falkor.os)
+                0x000000000001c200                __memset_falkor
+                0x000000000001c200                __GI___memset_falkor
+ *fill*         0x000000000001c324       0x1c 1f2003d5
+ .text          0x000000000001c340      0x1ec /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_generic.os)
+                0x000000000001c340                __GI_memset
+                0x000000000001c340                __GI___memset_generic
+                0x000000000001c340                __memset_generic
+ *fill*         0x000000000001c52c       0x14 1f2003d5
+ .text          0x000000000001c540      0x100 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_kunpeng.os)
+                0x000000000001c540                __GI___memset_kunpeng
+                0x000000000001c540                __memset_kunpeng
+ .text          0x000000000001c640      0x130 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_asimd.os)
+                0x000000000001c640                __GI___strlen_asimd
+                0x000000000001c640                __strlen_asimd
+ *fill*         0x000000000001c770       0x10 1f2003d5
+ .text          0x000000000001c780       0x8c /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_mte.os)
+                0x000000000001c780                __strlen_mte
+                0x000000000001c780                __GI_strlen
+ *fill*         0x000000000001c80c        0x4 1f2003d5
+ .text          0x000000000001c810       0x44 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(closedir.os)
+                0x000000000001c810                __closedir
+                0x000000000001c810                closedir
+ *fill*         0x000000000001c854        0xc 1f2003d5
+ .text          0x000000000001c860       0x80 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(rewinddir.os)
+                0x000000000001c860                rewinddir
+                0x000000000001c860                __rewinddir
+                0x000000000001c860                __GI___rewinddir
+ .text          0x000000000001c8e0      0x114 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(readdir64.os)
+                0x000000000001c8e0                readdir
+                0x000000000001c8e0                __readdir64
+                0x000000000001c8e0                __readdir
+                0x000000000001c8e0                __GI___readdir64
+                0x000000000001c8e0                readdir64
+ *fill*         0x000000000001c9f4        0xc 1f2003d5
+ .text          0x000000000001ca00       0xa8 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fdopendir.os)
+                0x000000000001ca00                fdopendir
+                0x000000000001ca00                __fdopendir
+ *fill*         0x000000000001caa8        0x8 1f2003d5
+ .text          0x000000000001cab0       0x50 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(_exit.os)
+                0x000000000001cab0                _Exit
+                0x000000000001cab0                __GI__exit
+                0x000000000001cab0                _exit
+ .text          0x000000000001cb00       0x10 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getpid.os)
+                0x000000000001cb00                __getpid
+                0x000000000001cb00                getpid
+                0x000000000001cb00                __GI_getpid
+                0x000000000001cb00                __GI___getpid
+ *fill*         0x000000000001cb10       0x30 1f2003d5
+ .text          0x000000000001cb40       0x1c /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(uname.os)
+                0x000000000001cb40                uname
+                0x000000000001cb40                __GI_uname
+                0x000000000001cb40                __uname
+                0x000000000001cb40                __GI___uname
+ .text          0x000000000001cb5c        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(environ.os)
+ *fill*         0x000000000001cb5c        0x4 1f2003d5
+ .text          0x000000000001cb60       0x3c /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(access.os)
+                0x000000000001cb60                __GI___access
+                0x000000000001cb60                access
+                0x000000000001cb60                __access
+ *fill*         0x000000000001cb9c        0x4 1f2003d5
+ .text          0x000000000001cba0       0x34 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstat64.os)
+                0x000000000001cba0                __GI___fstat64
+                0x000000000001cba0                fstat64
+                0x000000000001cba0                fstat
+                0x000000000001cba0                __fstat64
+                0x000000000001cba0                __fstat
+ *fill*         0x000000000001cbd4        0xc 1f2003d5
+ .text          0x000000000001cbe0       0x3c /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstatat64.os)
+                0x000000000001cbe0                fstatat
+                0x000000000001cbe0                __fstatat
+                0x000000000001cbe0                fstatat64
+                0x000000000001cbe0                __fstatat64
+                0x000000000001cbe0                __GI___fstatat
+                0x000000000001cbe0                __GI___fstatat64
+ *fill*         0x000000000001cc1c        0x4 1f2003d5
+ .text          0x000000000001cc20       0x38 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lseek64.os)
+                0x000000000001cc20                __GI___lseek
+                0x000000000001cc20                llseek@GLIBC_2.17
+                0x000000000001cc20                __lseek64
+                0x000000000001cc20                lseek
+                0x000000000001cc20                __libc_lseek64
+                0x000000000001cc20                __lseek
+                0x000000000001cc20                __libc_lseek
+                0x000000000001cc20                lseek64
+ *fill*         0x000000000001cc58        0x8 1f2003d5
+ .text          0x000000000001cc60       0x14 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lstat64.os)
+                0x000000000001cc60                __lstat64
+                0x000000000001cc60                lstat
+                0x000000000001cc60                lstat64
+                0x000000000001cc60                __GI___lstat64
+                0x000000000001cc60                __lstat
+ *fill*         0x000000000001cc74        0xc 1f2003d5
+ .text          0x000000000001cc80      0x12c /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(openat64.os)
+                0x000000000001cc80                __openat64
+                0x000000000001cc80                __GI___openat
+                0x000000000001cc80                __GI___openat64
+                0x000000000001cc80                __libc_openat64
+                0x000000000001cc80                __openat
+                0x000000000001cc80                openat
+ *fill*         0x000000000001cdac        0x4 1f2003d5
+ .text          0x000000000001cdb0       0x14 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stat64.os)
+                0x000000000001cdb0                stat64
+                0x000000000001cdb0                __stat
+                0x000000000001cdb0                __stat64
+                0x000000000001cdb0                stat
+                0x000000000001cdb0                __GI___stat64
+ *fill*         0x000000000001cdc4        0xc 1f2003d5
+ .text          0x000000000001cdd0       0x34 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(close_nocancel.os)
+                0x000000000001cdd0                __GI___close_nocancel
+                0x000000000001cdd0                __close_nocancel
+ *fill*         0x000000000001ce04        0xc 1f2003d5
+ .text          0x000000000001ce10      0x150 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fcntl_nocancel.os)
+                0x000000000001ce10                __fcntl64_nocancel
+                0x000000000001ce10                __GI___fcntl64_nocancel
+                0x000000000001ced0                __fcntl64_nocancel_adjusted
+ .text          0x000000000001cf60       0x94 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(open64_nocancel.os)
+                0x000000000001cf60                __GI___open_nocancel
+                0x000000000001cf60                __open_nocancel
+                0x000000000001cf60                __GI___open64_nocancel
+                0x000000000001cf60                __open64_nocancel
+ *fill*         0x000000000001cff4        0xc 1f2003d5
+ .text          0x000000000001d000       0x34 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(pread64_nocancel.os)
+                0x000000000001d000                __GI___pread64_nocancel
+                0x000000000001d000                __pread64_nocancel
+ *fill*         0x000000000001d034        0xc 1f2003d5
+ .text          0x000000000001d040       0x34 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(read_nocancel.os)
+                0x000000000001d040                __read_nocancel
+                0x000000000001d040                __GI___read_nocancel
+ *fill*         0x000000000001d074        0xc 1f2003d5
+ .text          0x000000000001d080       0x34 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(write_nocancel.os)
+                0x000000000001d080                __GI___write_nocancel
+                0x000000000001d080                __write_nocancel
+ *fill*         0x000000000001d0b4        0xc 1f2003d5
+ .text          0x000000000001d0c0       0x60 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mmap64.os)
+                0x000000000001d0c0                __GI___mmap
+                0x000000000001d0c0                __mmap
+                0x000000000001d0c0                mmap
+                0x000000000001d0c0                __GI___mmap64
+                0x000000000001d0c0                __mmap64
+                0x000000000001d0c0                mmap64
+ *fill*         0x000000000001d120       0x20 1f2003d5
+ .text          0x000000000001d140       0x1c /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mprotect.os)
+                0x000000000001d140                __mprotect
+                0x000000000001d140                __GI___mprotect
+                0x000000000001d140                __GI_mprotect
+                0x000000000001d140                mprotect
+ *fill*         0x000000000001d15c       0x24 1f2003d5
+ .text          0x000000000001d180       0x1c /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(munmap.os)
+                0x000000000001d180                munmap
+                0x000000000001d180                __GI___munmap
+                0x000000000001d180                __GI_munmap
+                0x000000000001d180                __munmap
+ .text          0x000000000001d19c        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(single_threaded.os)
+ *fill*         0x000000000001d19c        0x4 1f2003d5
+ .text          0x000000000001d1a0      0x188 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os)
+                0x000000000001d1f0                __profil
+                0x000000000001d1f0                profil
+ *fill*         0x000000000001d328        0x8 1f2003d5
+ .text          0x000000000001d330       0x10 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(prof-freq.os)
+                0x000000000001d330                __GI___profile_frequency
+                0x000000000001d330                __profile_frequency
+ .text          0x000000000001d340       0x70 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(dl-addr-obj.os)
+                0x000000000001d340                _dl_addr_inside_object
+ .text          0x000000000001d3b0       0x1c /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sysdep.os)
+                0x000000000001d3b0                __syscall_error
+                0x000000000001d3b0                __GI___syscall_error
+ *fill*         0x000000000001d3cc        0x4 1f2003d5
+ .text          0x000000000001d3d0       0x38 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sigaction.os)
+                0x000000000001d3d0                sigaction
+                0x000000000001d3d0                __GI___sigaction
+                0x000000000001d3d0                __sigaction
+ *fill*         0x000000000001d408        0x8 1f2003d5
+ .text          0x000000000001d410      0x114 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(libc_sigaction.os)
+                0x000000000001d410                __libc_sigaction
+                0x000000000001d410                __GI___libc_sigaction
+ *fill*         0x000000000001d524        0xc 1f2003d5
+ .text          0x000000000001d530       0x34 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errname.os)
+                0x000000000001d530                __get_errname
+ *fill*         0x000000000001d564       0x1c 1f2003d5
+ .text          0x000000000001d580       0x90 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchrnul.os)
+                0x000000000001d580                __GI___strchrnul
+                0x000000000001d580                __strchrnul
+                0x000000000001d580                strchrnul
+ .text          0x000000000001d610       0x34 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setitimer.os)
+                0x000000000001d610                setitimer
+                0x000000000001d610                __setitimer
+ *fill*         0x000000000001d644        0xc 1f2003d5
+ .text          0x000000000001d650       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getdents64.os)
+                0x000000000001d650                __getdents
+                0x000000000001d650                __GI___getdents64
+                0x000000000001d650                getdents64
+                0x000000000001d650                __getdents64
+ .text          0x000000000001d690       0x34 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+                0x000000000001d690                __aarch64_cas4_acq
+ *fill*         0x000000000001d6c4        0xc 1f2003d5
+ .text          0x000000000001d6d0       0x30 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+                0x000000000001d6d0                __aarch64_ldadd4_relax
+ .text          0x000000000001d700       0x2c /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+                0x000000000001d700                __aarch64_swp4_acq
+ *fill*         0x000000000001d72c        0x4 1f2003d5
+ .text          0x000000000001d730       0x2c /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+                0x000000000001d730                __aarch64_swp4_rel
+ .text          0x000000000001d75c        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+ *fill*         0x000000000001d75c        0x4 1f2003d5
+ .text          0x000000000001d760       0xec /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getauxval.os)
+                0x000000000001d760                __GI___getauxval2
+                0x000000000001d760                __getauxval2
+                0x000000000001d7d0                getauxval
+                0x000000000001d7d0                __GI___getauxval
+                0x000000000001d7d0                __getauxval
+ *(.gnu.warning)
+
+.text.compat    0x0000000000000000        0x4
+ .text.compat   0x0000000000000000        0x4 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+                0x0000000000000000                __rtld_version_placeholder_1
+                0x0000000000000000                __rtld_version_placeholder@GLIBC_2.34
+
+.text.startup   0x0000000000000000       0x24
+ .text.startup  0x0000000000000000       0x24 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x10c5
+ *(.rodata)
+ .rodata        0x0000000000000000      0xb18 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+ *fill*         0x0000000000000b18        0x8 
+ .rodata        0x0000000000000b20       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx2.os)
+ .rodata        0x0000000000000b60      0x565 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errname.os)
+
+.rodata.str1.8  0x0000000000000000     0x4631
+ .rodata.str1.8
+                0x0000000000000000     0x45d1 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+                0x0000000000002988                _dl_hwcaps_subdirs
+ *fill*         0x00000000000045d1        0x7 
+ .rodata.str1.8
+                0x00000000000045d8       0x1a /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os)
+ *fill*         0x00000000000045f2        0x6 
+ .rodata.str1.8
+                0x00000000000045f8       0x37 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lowlevellock.os)
+ *fill*         0x000000000000462f        0x1 
+ .rodata.str1.8
+                0x0000000000004630        0x1 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstat64.os)
+
+.rodata.cst4    0x0000000000000000        0x8
+ .rodata.cst4   0x0000000000000000        0x8 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+                0x0000000000000004                __rseq_flags
+
+.rodata.str1.16
+                0x0000000000000000       0x73
+ .rodata.str1.16
+                0x0000000000000000       0x73 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+                0x0000000000000040                __GI__itoa_lower_digits
+                0x0000000000000040                _itoa_lower_digits
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x4024
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x3148 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+                                       0x31c0 (size before relaxing)
+ .eh_frame      0x0000000000003148       0x68 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os)
+ .eh_frame      0x00000000000031b0       0x50 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000003200       0x90 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(__longjmp.os)
+ .eh_frame      0x0000000000003290       0x88 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lowlevellock.os)
+ .eh_frame      0x0000000000003318       0x48 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .eh_frame      0x0000000000003360       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr.os)
+ .eh_frame      0x0000000000003388       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcmp.os)
+ .eh_frame      0x00000000000033b0       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os)
+ .eh_frame      0x00000000000033d8       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memmove.os)
+ .eh_frame      0x0000000000003400       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os)
+ .eh_frame      0x0000000000003428       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stpcpy.os)
+ .eh_frame      0x0000000000003450       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchr.os)
+ .eh_frame      0x0000000000003478       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcmp.os)
+ .eh_frame      0x00000000000034a0       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcspn.os)
+ .eh_frame      0x00000000000034e0       0x48 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strdup.os)
+ .eh_frame      0x0000000000003528       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strerrorname_np.os)
+ .eh_frame      0x0000000000003550       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen.os)
+ .eh_frame      0x0000000000003578       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strncmp.os)
+ .eh_frame      0x00000000000035a0       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strnlen.os)
+ .eh_frame      0x00000000000035c8       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_generic.os)
+ .eh_frame      0x00000000000035f0       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_nosimd.os)
+ .eh_frame      0x0000000000003618       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_a64fx.os)
+ .eh_frame      0x0000000000003658       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_falkor.os)
+ .eh_frame      0x0000000000003698       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_generic.os)
+ .eh_frame      0x00000000000036d8       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_sve.os)
+ .eh_frame      0x0000000000003718       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx.os)
+ .eh_frame      0x0000000000003758       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx2.os)
+ .eh_frame      0x0000000000003798       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_a64fx.os)
+ .eh_frame      0x00000000000037c0       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_emag.os)
+ .eh_frame      0x00000000000037e8       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_falkor.os)
+ .eh_frame      0x0000000000003810       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_generic.os)
+ .eh_frame      0x0000000000003838       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_kunpeng.os)
+ .eh_frame      0x0000000000003860       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_asimd.os)
+ .eh_frame      0x0000000000003888       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_mte.os)
+ .eh_frame      0x00000000000038b0       0x38 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(closedir.os)
+ .eh_frame      0x00000000000038e8       0x48 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(rewinddir.os)
+ .eh_frame      0x0000000000003930       0x48 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(readdir64.os)
+ .eh_frame      0x0000000000003978       0x40 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fdopendir.os)
+ .eh_frame      0x00000000000039b8       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(_exit.os)
+ .eh_frame      0x00000000000039e0       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getpid.os)
+ .eh_frame      0x0000000000003a08       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(uname.os)
+ .eh_frame      0x0000000000003a30       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(access.os)
+ .eh_frame      0x0000000000003a58       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstat64.os)
+ .eh_frame      0x0000000000003a80       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstatat64.os)
+ .eh_frame      0x0000000000003aa8       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lseek64.os)
+ .eh_frame      0x0000000000003ad0       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lstat64.os)
+ .eh_frame      0x0000000000003af8       0x50 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(openat64.os)
+ .eh_frame      0x0000000000003b48       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stat64.os)
+ .eh_frame      0x0000000000003b70       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(close_nocancel.os)
+ .eh_frame      0x0000000000003b98       0x60 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fcntl_nocancel.os)
+ .eh_frame      0x0000000000003bf8       0x38 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(open64_nocancel.os)
+ .eh_frame      0x0000000000003c30       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(pread64_nocancel.os)
+ .eh_frame      0x0000000000003c58       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(read_nocancel.os)
+ .eh_frame      0x0000000000003c80       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(write_nocancel.os)
+ .eh_frame      0x0000000000003ca8       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mmap64.os)
+ .eh_frame      0x0000000000003cd0       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mprotect.os)
+ .eh_frame      0x0000000000003cf8       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(munmap.os)
+ .eh_frame      0x0000000000003d20       0x78 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os)
+ .eh_frame      0x0000000000003d98       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(prof-freq.os)
+ .eh_frame      0x0000000000003dc0       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(dl-addr-obj.os)
+ .eh_frame      0x0000000000003de8       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sysdep.os)
+ .eh_frame      0x0000000000003e10       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sigaction.os)
+ .eh_frame      0x0000000000003e38       0x38 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(libc_sigaction.os)
+ .eh_frame      0x0000000000003e70       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errname.os)
+ .eh_frame      0x0000000000003e98       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchrnul.os)
+ .eh_frame      0x0000000000003ec0       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setitimer.os)
+ .eh_frame      0x0000000000003ee8       0x28 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getdents64.os)
+ .eh_frame      0x0000000000003f10       0x28 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .eh_frame      0x0000000000003f38       0x28 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .eh_frame      0x0000000000003f60       0x28 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .eh_frame      0x0000000000003f88       0x28 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .eh_frame      0x0000000000003fb0       0x38 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+ .eh_frame      0x0000000000003fe8       0x3c /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getauxval.os)
+                                         0x40 (size before relaxing)
+
+.sframe
+ *(.sframe)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.sframe
+ *(.sframe)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000        0x4
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.got.plt
+ *(.got.plt)
+
+.data           0x0000000000000000     0x11a8
+ *(.data)
+ .data          0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/librtld.mapT.o
+ .data          0x0000000000000000     0x11a8 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errno.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setjmp.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(__longjmp.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lowlevellock.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcmp.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memmove.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stpcpy.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchr.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcmp.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcspn.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strdup.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strerrorname_np.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strncmp.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strnlen.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_generic.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_nosimd.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_a64fx.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_falkor.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_generic.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_sve.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx2.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_a64fx.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_emag.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_falkor.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_generic.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_kunpeng.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_asimd.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_mte.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(closedir.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(rewinddir.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(readdir64.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fdopendir.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(_exit.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getpid.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(uname.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(environ.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(access.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstat64.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstatat64.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lseek64.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lstat64.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(openat64.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stat64.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(close_nocancel.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fcntl_nocancel.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(open64_nocancel.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(pread64_nocancel.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(read_nocancel.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(write_nocancel.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mmap64.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mprotect.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(munmap.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(single_threaded.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(prof-freq.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(dl-addr-obj.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sysdep.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sigaction.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(libc_sigaction.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errname.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchrnul.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setitimer.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getdents64.os)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+ .data          0x00000000000011a8        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getauxval.os)
+
+.data.rel.ro    0x0000000000000000     0x1120
+ .data.rel.ro   0x0000000000000000     0x1120 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+                0x0000000000000050                __rtld_env_path_list
+                0x0000000000000060                __rtld_search_dirs
+                0x0000000000000070                __stack_prot
+                0x0000000000000078                __rseq_offset
+                0x0000000000000080                __rseq_size
+                0x0000000000000e18                __rtld_calloc
+                0x0000000000000e20                __rtld_free
+                0x0000000000000e28                __rtld_malloc
+                0x0000000000000e30                __rtld_realloc
+                0x0000000000000e38                ___rtld_mutex_lock
+                0x0000000000000e40                ___rtld_mutex_unlock
+                0x0000000000000e48                __GI___libc_enable_secure
+                0x0000000000000e48                __libc_enable_secure
+                0x0000000000000e50                _dl_random
+                0x0000000000000e58                __libc_stack_end
+                0x0000000000000e58                __GI___libc_stack_end
+                0x0000000000000e60                __GI__dl_argv
+                0x0000000000000e60                _dl_argv
+                0x0000000000000e68                _dl_argc
+                0x0000000000000e70                __pointer_chk_guard
+                0x0000000000000e70                __pointer_chk_guard_local
+                0x0000000000000e78                __stack_chk_guard
+                0x0000000000000e80                _rtld_global_ro
+                0x0000000000000e80                _rtld_local_ro
+
+.data.rel.ro.local
+                0x0000000000000000       0xb8
+ .data.rel.ro.local
+                0x0000000000000000       0xb8 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+
+.init_array     0x0000000000000000        0x8
+ .init_array    0x0000000000000000        0x8 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x259
+ *(.bss)
+ .bss           0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/librtld.mapT.o
+ .bss           0x0000000000000000      0x170 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+                0x0000000000000018                _r_debug_extended
+                0x0000000000000018                _r_debug
+                0x00000000000000d0                __nptl_initial_report_events
+                0x00000000000000d0                __GI___nptl_initial_report_events
+                0x0000000000000108                _dl_hwcaps_priorities
+                0x0000000000000110                _dl_hwcaps_priorities_length
+                0x0000000000000118                __rtld_tls_init_tp_called
+                0x0000000000000168                ___brk_addr
+                0x0000000000000168                __curbrk
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errno.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lowlevellock.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memmove.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchr.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcspn.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strdup.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strerrorname_np.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strncmp.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_generic.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_nosimd.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_a64fx.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_falkor.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_generic.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_sve.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx2.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_a64fx.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_emag.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_falkor.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_generic.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_kunpeng.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_asimd.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_mte.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(closedir.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(rewinddir.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(readdir64.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fdopendir.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(_exit.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getpid.os)
+ .bss           0x0000000000000170        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(uname.os)
+ .bss           0x0000000000000170        0x8 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(environ.os)
+                0x0000000000000170                _environ
+                0x0000000000000170                __environ
+                0x0000000000000170                environ
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(access.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstat64.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstatat64.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lseek64.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lstat64.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(openat64.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stat64.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(close_nocancel.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fcntl_nocancel.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(open64_nocancel.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(pread64_nocancel.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(read_nocancel.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(write_nocancel.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mmap64.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mprotect.os)
+ .bss           0x0000000000000178        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(munmap.os)
+ .bss           0x0000000000000178        0x1 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(single_threaded.os)
+                0x0000000000000178                __libc_single_threaded
+                0x0000000000000178                __libc_single_threaded_internal
+ *fill*         0x0000000000000179        0x7 
+ .bss           0x0000000000000180       0xd8 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(dl-addr-obj.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sysdep.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(libc_sigaction.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errname.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchrnul.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getdents64.os)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .bss           0x0000000000000258        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .bss           0x0000000000000258        0x1 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+                0x0000000000000258                __aarch64_have_lse_atomics
+ .bss           0x0000000000000259        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getauxval.os)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xd89
+ *(.comment)
+ .comment       0x0000000000000000      0x785 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+ .comment       0x0000000000000785       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os)
+ .comment       0x00000000000007a8       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errno.os)
+ .comment       0x00000000000007cb       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lowlevellock.os)
+ .comment       0x00000000000007ee       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .comment       0x0000000000000811       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr.os)
+ .comment       0x0000000000000834       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os)
+ .comment       0x0000000000000857       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memmove.os)
+ .comment       0x000000000000087a       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os)
+ .comment       0x000000000000089d       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcspn.os)
+ .comment       0x00000000000008c0       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strdup.os)
+ .comment       0x00000000000008e3       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strerrorname_np.os)
+ .comment       0x0000000000000906       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen.os)
+ .comment       0x0000000000000929       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(closedir.os)
+ .comment       0x000000000000094c       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(rewinddir.os)
+ .comment       0x000000000000096f       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(readdir64.os)
+ .comment       0x0000000000000992       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fdopendir.os)
+ .comment       0x00000000000009b5       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(_exit.os)
+ .comment       0x00000000000009d8       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(environ.os)
+ .comment       0x00000000000009fb       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(access.os)
+ .comment       0x0000000000000a1e       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstat64.os)
+ .comment       0x0000000000000a41       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstatat64.os)
+ .comment       0x0000000000000a64       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lseek64.os)
+ .comment       0x0000000000000a87       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lstat64.os)
+ .comment       0x0000000000000aaa       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(openat64.os)
+ .comment       0x0000000000000acd       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stat64.os)
+ .comment       0x0000000000000af0       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(close_nocancel.os)
+ .comment       0x0000000000000b13       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fcntl_nocancel.os)
+ .comment       0x0000000000000b36       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(open64_nocancel.os)
+ .comment       0x0000000000000b59       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(pread64_nocancel.os)
+ .comment       0x0000000000000b7c       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(read_nocancel.os)
+ .comment       0x0000000000000b9f       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(write_nocancel.os)
+ .comment       0x0000000000000bc2       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mmap64.os)
+ .comment       0x0000000000000be5       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(single_threaded.os)
+ .comment       0x0000000000000c08       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os)
+ .comment       0x0000000000000c2b       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000c4e       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(dl-addr-obj.os)
+ .comment       0x0000000000000c71       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sysdep.os)
+ .comment       0x0000000000000c94       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sigaction.os)
+ .comment       0x0000000000000cb7       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(libc_sigaction.os)
+ .comment       0x0000000000000cda       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errname.os)
+ .comment       0x0000000000000cfd       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setitimer.os)
+ .comment       0x0000000000000d20       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getdents64.os)
+ .comment       0x0000000000000d43       0x23 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+ .comment       0x0000000000000d66       0x23 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getauxval.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/librtld.mapT.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strerrorname_np.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strncmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_generic.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memchr_nosimd.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_a64fx.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_falkor.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_generic.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_sve.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memcpy_thunderx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_a64fx.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_emag.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_falkor.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_generic.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(memset_kunpeng.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_asimd.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strlen_mte.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fstatat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(lstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(stat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(single_threaded.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sysdep.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(libc_sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(errname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(strchrnul.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc_pic.a(getauxval.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xf0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .debug_aranges
+                0x0000000000000030       0x30 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .debug_aranges
+                0x0000000000000060       0x30 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .debug_aranges
+                0x0000000000000090       0x30 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .debug_aranges
+                0x00000000000000c0       0x30 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x18b
+ *(.debug_info)
+ .debug_info    0x0000000000000000       0x39 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .debug_info    0x0000000000000039       0x39 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .debug_info    0x0000000000000072       0x39 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .debug_info    0x00000000000000ab       0x39 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .debug_info    0x00000000000000e4       0xa7 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.debug_abbrev   0x0000000000000000      0x12d
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x28 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .debug_abbrev  0x0000000000000028       0x28 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .debug_abbrev  0x0000000000000050       0x28 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .debug_abbrev  0x0000000000000078       0x28 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .debug_abbrev  0x00000000000000a0       0x8d /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.debug_line     0x0000000000000000      0x1d0
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x5a /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .debug_line    0x000000000000005a       0x57 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .debug_line    0x00000000000000b1       0x56 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .debug_line    0x0000000000000107       0x56 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .debug_line    0x000000000000015d       0x73 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x3a2
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0xb1 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .debug_str     0x00000000000000b1       0xb5 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .debug_str     0x0000000000000166       0xb1 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .debug_str     0x0000000000000217       0xb1 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .debug_str     0x00000000000002c8       0xda /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000      0x381
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000       0x92 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(cas_4_2.o)
+ .debug_line_str
+                0x0000000000000092       0x92 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(ldadd_4_1.o)
+ .debug_line_str
+                0x0000000000000124       0x92 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_2.o)
+ .debug_line_str
+                0x00000000000001b6       0x92 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(swp_4_3.o)
+ .debug_line_str
+                0x0000000000000248      0x139 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.debug_loclists
+                0x0000000000000000       0x1b
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000       0x1b /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000       0x17
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000       0x17 /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/libgcc.a(lse-init.o)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+ *(.ARM.attributes)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/elf/librtld.map.o elf64-littleaarch64)
+LOAD linker stubs

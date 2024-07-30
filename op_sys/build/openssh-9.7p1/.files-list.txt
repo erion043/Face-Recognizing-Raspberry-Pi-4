@@ -1,0 +1,16 @@
+openssh,./etc/ssh/ssh_config
+openssh,./etc/ssh/sshd_config
+openssh,./etc/ssh/moduli
+openssh,./etc/init.d/S50sshd
+openssh,./usr/bin/ssh
+openssh,./usr/bin/scp
+openssh,./usr/bin/sftp
+openssh,./usr/bin/ssh-agent
+openssh,./usr/bin/ssh-add
+openssh,./usr/libexec/ssh-keysign
+openssh,./usr/bin/ssh-copy-id
+openssh,./usr/libexec/ssh-pkcs11-helper
+openssh,./usr/sbin/sshd
+openssh,./usr/libexec/sftp-server
+openssh,./usr/bin/ssh-keygen
+openssh,./usr/bin/ssh-keyscan

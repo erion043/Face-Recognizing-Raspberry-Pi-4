@@ -1,0 +1,5 @@
+grub-core/lib/zstd/libgrubmods_a-debug.o: ../grub-core/lib/zstd/debug.c \
+ /home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ ../grub-core/lib/zstd/debug.h
+/home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:
+../grub-core/lib/zstd/debug.h:

@@ -1,0 +1,3 @@
+sync-cache.o: ../../../libgcc/config/aarch64/sync-cache.c \
+ /home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h
+/home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:

@@ -1,0 +1,1 @@
+cmd_findutils/lib.a := rm -f findutils/lib.a; /home/erion/Projects/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-gcc-ar  rcs findutils/lib.a findutils/find.o findutils/grep.o findutils/xargs.o

@@ -1,0 +1,9 @@
+loader/macho_module-lzss.o: ../../grub-core/loader/lzss.c \
+ ../../include/grub/types.h ../config.h \
+ /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h \
+ ../include/grub/cpu/types.h ../../include/grub/macho.h
+../../include/grub/types.h:
+../config.h:
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h:
+../include/grub/cpu/types.h:
+../../include/grub/macho.h:

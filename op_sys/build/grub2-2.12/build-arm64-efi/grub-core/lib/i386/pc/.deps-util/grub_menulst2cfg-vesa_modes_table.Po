@@ -1,0 +1,12 @@
+grub-core/lib/i386/pc/grub_menulst2cfg-vesa_modes_table.o: \
+ ../grub-core/lib/i386/pc/vesa_modes_table.c \
+ /home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ ../include/grub/i386/pc/vesa_modes_table.h ../include/grub/types.h \
+ config.h config-util.h \
+ /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h
+/home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:
+../include/grub/i386/pc/vesa_modes_table.h:
+../include/grub/types.h:
+config.h:
+config-util.h:
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stdbool.h:

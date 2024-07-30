@@ -1,0 +1,1 @@
+cmd_coreutils/libcoreutils/built-in.o :=  rm -f coreutils/libcoreutils/built-in.o; /home/erion/Projects/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-gcc-ar rcs coreutils/libcoreutils/built-in.o

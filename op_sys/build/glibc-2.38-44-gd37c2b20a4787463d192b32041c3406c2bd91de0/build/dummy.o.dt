@@ -1,0 +1,11 @@
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/dummy.o: \
+ /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/dummy.c \
+ /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/libc-modules.h:
+../include/libc-symbols.h:
+/home/erion/Projects/buildroot/output/build/glibc-2.38-44-gd37c2b20a4787463d192b32041c3406c2bd91de0/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:

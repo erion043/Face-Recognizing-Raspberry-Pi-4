@@ -1,0 +1,3 @@
+/home/erion/Projects/buildroot/package/libopenssl/0001-Reproducible-build-do-not-leak-compiler-path.patch
+/home/erion/Projects/buildroot/package/libopenssl/0002-Configure-use-ELFv2-ABI-on-some-ppc64-big-endian-sys.patch
+/home/erion/Projects/buildroot/package/libopenssl/0003-Revert-Fix-static-builds.patch

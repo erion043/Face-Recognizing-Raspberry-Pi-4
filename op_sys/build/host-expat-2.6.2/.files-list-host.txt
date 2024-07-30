@@ -1,0 +1,16 @@
+host-expat,./include/expat_config.h
+host-expat,./include/expat.h
+host-expat,./include/expat_external.h
+host-expat,./share/doc/expat/AUTHORS
+host-expat,./share/doc/expat/changelog
+host-expat,./lib/libexpat.so.1.9.2
+host-expat,./lib/libexpat.so.1
+host-expat,./lib/libexpat.so
+host-expat,./lib/libexpat.la
+host-expat,./bin/xmlwf
+host-expat,./share/man/man1/xmlwf.1
+host-expat,./lib/cmake/expat-2.6.2/expat.cmake
+host-expat,./lib/cmake/expat-2.6.2/expat-config-version.cmake
+host-expat,./lib/cmake/expat-2.6.2/expat-noconfig.cmake
+host-expat,./lib/cmake/expat-2.6.2/expat-config.cmake
+host-expat,./lib/pkgconfig/expat.pc

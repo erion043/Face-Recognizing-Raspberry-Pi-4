@@ -1,0 +1,3 @@
+sfp-exceptions.o: ../../../libgcc/config/aarch64/sfp-exceptions.c \
+ ../../../libgcc/config/aarch64/sfp-machine.h
+../../../libgcc/config/aarch64/sfp-machine.h:

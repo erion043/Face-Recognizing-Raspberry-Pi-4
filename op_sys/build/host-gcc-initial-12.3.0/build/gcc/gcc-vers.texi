@@ -1,0 +1,5 @@
+@set version-GCC 12.3.0
+@clear DEVELOPMENT
+@set srcdir /home/erion/Projects/buildroot/output/build/host-gcc-initial-12.3.0/build/gcc/../../gcc
+@set VERSION_PACKAGE (Buildroot 2024.02.2) 
+@set BUGURL @uref{http://bugs.buildroot.net/}

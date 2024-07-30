@@ -1,0 +1,15 @@
+gcc-final,./lib/libatomic.so.1.2.0
+gcc-final,./lib/libatomic.so.1
+gcc-final,./lib/libatomic.so
+gcc-final,./lib/libatomic.la
+gcc-final,./lib/libatomic.a
+gcc-final,./lib/libgcc_s.so.1
+gcc-final,./lib/libgcc_s.so
+gcc-final,./usr/lib/libstdc++fs.la
+gcc-final,./usr/lib/libstdc++fs.a
+gcc-final,./usr/lib/libstdc++.so.6.0.30
+gcc-final,./usr/lib/libstdc++.so.6
+gcc-final,./usr/lib/libstdc++.la
+gcc-final,./usr/lib/libstdc++.so
+gcc-final,./usr/lib/libstdc++.a
+gcc-final,./usr/lib/libstdc++.so.6.0.30-gdb.py

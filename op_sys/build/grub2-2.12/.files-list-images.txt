@@ -1,0 +1,2 @@
+grub2,./efi-part/EFI/BOOT/bootaa64.efi
+grub2,./efi-part/EFI/BOOT/grub.cfg

@@ -1,0 +1,6 @@
+libgnu_a-argp-pin.o: ../../../../grub-core/lib/gnulib/argp-pin.c \
+ /home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ ../../../config.h ../../../config-util.h
+/home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:
+../../../config.h:
+../../../config-util.h:

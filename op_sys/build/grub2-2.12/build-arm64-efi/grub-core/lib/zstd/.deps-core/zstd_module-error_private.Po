@@ -1,0 +1,8 @@
+lib/zstd/zstd_module-error_private.o: \
+ ../../grub-core/lib/zstd/error_private.c \
+ ../../grub-core/lib/zstd/error_private.h \
+ /home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stddef.h \
+ ../../grub-core/lib/zstd/zstd_errors.h
+../../grub-core/lib/zstd/error_private.h:
+/home/erion/Projects/buildroot/output/host/lib/gcc/aarch64-buildroot-linux-gnu/12.3.0/include/stddef.h:
+../../grub-core/lib/zstd/zstd_errors.h:

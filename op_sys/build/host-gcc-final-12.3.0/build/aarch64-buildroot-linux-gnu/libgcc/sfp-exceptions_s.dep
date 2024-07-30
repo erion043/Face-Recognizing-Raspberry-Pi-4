@@ -1,0 +1,5 @@
+sfp-exceptions_s.o: ../../../libgcc/config/aarch64/sfp-exceptions.c \
+ /home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ ../../../libgcc/config/aarch64/sfp-machine.h
+/home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:
+../../../libgcc/config/aarch64/sfp-machine.h:

@@ -1,0 +1,10 @@
+host-libconfuse,./include/confuse.h
+host-libconfuse,./lib/libconfuse.so.2.1.0
+host-libconfuse,./lib/libconfuse.so.2
+host-libconfuse,./lib/libconfuse.so
+host-libconfuse,./lib/libconfuse.la
+host-libconfuse,./lib/pkgconfig/libconfuse.pc
+host-libconfuse,./share/doc/confuse/README.md
+host-libconfuse,./share/doc/confuse/AUTHORS
+host-libconfuse,./share/doc/confuse/LICENSE
+host-libconfuse,./share/doc/confuse/ChangeLog.md

@@ -1,0 +1,3 @@
+/home/erion/Projects/buildroot/package/gcc/12.3.0/0001-disable-split-stack-for-non-thread-builds.patch
+/home/erion/Projects/buildroot/package/gcc/12.3.0/0002-or1k-Only-define-TARGET_HAVE_TLS-when-HAVE_AS_TLS.patch
+/home/erion/Projects/buildroot/package/gcc/12.3.0/0003-xtensa-add-.note.GNU-stack-section-on-linux.patch

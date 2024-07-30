@@ -1,0 +1,3 @@
+libgnu_a-argp-ba.o: ../../../../grub-core/lib/gnulib/argp-ba.c \
+ /home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h
+/home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:

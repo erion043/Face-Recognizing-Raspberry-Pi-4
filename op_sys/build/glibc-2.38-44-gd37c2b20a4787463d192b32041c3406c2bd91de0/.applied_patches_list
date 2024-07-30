@@ -1,0 +1,3 @@
+/home/erion/Projects/buildroot/package/glibc/0001-m68k-Fix-build-with-mcpu-68040-or-higher-BZ-30740.patch
+/home/erion/Projects/buildroot/package/glibc/0002-m68k-fix-__mpn_lshift-and-__mpn_rshift-for-non-68020.patch
+/home/erion/Projects/buildroot/package/glibc/0003-m68k-Use-M68K_SCALE_AVAILABLE-on-__mpn_lshift-and-__.patch

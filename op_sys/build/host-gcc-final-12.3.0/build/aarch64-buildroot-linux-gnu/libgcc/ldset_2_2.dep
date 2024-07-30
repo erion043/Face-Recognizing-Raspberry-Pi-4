@@ -1,0 +1,5 @@
+ldset_2_2.o: ../../../libgcc/config/aarch64/lse.S \
+ /home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ auto-target.h
+/home/erion/Projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:
+auto-target.h:

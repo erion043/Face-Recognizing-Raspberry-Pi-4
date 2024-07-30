@@ -1,0 +1,3 @@
+/home/erion/Projects/buildroot/package/wpa_supplicant/0001-build-re-enable-options-for-libwpa_client.so-and-.patch
+/home/erion/Projects/buildroot/package/wpa_supplicant/0002-wpa_supplicant-use-a-less-generic-name-for-IEEE802.1.patch
+/home/erion/Projects/buildroot/package/wpa_supplicant/0003-Include-HMAC-SHA384-512-KDF-for-SAE-if-SHA384-512-is.patch
