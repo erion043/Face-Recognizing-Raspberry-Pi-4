@@ -1,0 +1,2 @@
+op_sys/images/rootfs.ext2 filter=lfs diff=lfs merge=lfs -text
+op_sys/images/sdcard.img filter=lfs diff=lfs merge=lfs -text
