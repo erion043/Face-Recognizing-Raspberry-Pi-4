@@ -17,7 +17,7 @@ Some of the main config options are:
   - Post-image build script: post-image.sh
 
 # Face Recognizing Python Script
-The python script is meant to be a demonstration of how the device is supposed to recognize and store the faces. It's not ported to work specifically within the OS however it should work on a device with an accesible camera and propely setup python environment.
+The python script is meant to be a demonstration of how the device is supposed to recognize and store the faces. It's not ported to work specifically within the OS however it should work on a device with an accessible camera and properly setup python environment.
 
 ### Using the script
 In the face_rec folder there are two scripts:
